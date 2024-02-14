@@ -1,0 +1,57 @@
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+  }
+  
+  .note-container {
+    width: 400px;
+    background-color: #f0e8e8;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .note-inner {
+    padding: 20px;
+    background-color: hsl(150, 17%, 93%);
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .note-header {
+    background-color: #ff0707;
+    padding: 10px;
+    border-radius: 5px 5px 0px 0px;
+    color: #fff;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .note-header-text {
+    display: inline-block;
+    border-bottom: 2px solid #fff;
+  }
+  
+  .message {
+    font-size: 1.1em;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    font-family: "Sofia", sans-serif;
+  }
+  
+  .note-footer {
+    background-color: #f34b4b;
+    padding: 10px;
+    border-radius: 0px 0px 5px 5px;
+    color: #fff;
+    font-size: 1.2em;
+  }
+  
+  .note-signature {
+    display: inline-block;
+    border-bottom: 2px solid #fff;
+  }
+
+  
